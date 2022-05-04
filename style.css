@@ -1,0 +1,16 @@
+
+
+h1 {
+color :blue;
+
+}
+
+body{
+background-color:aqua;
+}
+.cl{
+background-color:blueviolet;
+border: solid;
+display: flex;
+justify-content:space-between;
+}
